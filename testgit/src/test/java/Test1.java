@@ -10,7 +10,7 @@ public  void  test(){
         System.out.println("分支创建");
         System.out.println("分支创建");
         System.out.println("分支创建");
-
+        System.out.println("主干添加");
     }
 }
 
